@@ -70,9 +70,12 @@ python -m pip install -r requirements.txt
 ```
 
 
-## Datasets
+## Datasets & Tools
 The Open3DVQA can be accessed [HERE](https://github.com/EmbodiedCity/Open3D-VQA.code).
 The UAVScenes can be accessed [HERE](https://github.com/sijieaaa/UAVScenes).
+SAM 3.1 for segmentation [HERE](https://huggingface.co/facebook/sam3.1).
+Moge [HERE](https://huggingface.co/Ruicheng/moge-2-vitl-normal/tree/main).
+Unidepth [HERE](https://huggingface.co/lpiccinelli/unidepth-v2-vitb14/tree/main)
 
 
 ```bash
